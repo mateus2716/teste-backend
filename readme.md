@@ -1,1 +1,1 @@
-Código criado para teste de backend para Projeto da Accenture
+Código criado para teste de backend feito a partir de node.js e mongodb para Projeto da Accenture
